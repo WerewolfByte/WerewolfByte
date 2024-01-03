@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/WerewolfByte/WerewolfByte/main/.github/gif/banner.gif" alt="MasterHead" width="1000" height="450"/>
+<img src="https://raw.githubusercontent.com/WerewolfByte/WerewolfByte/main/.github/gif/top-banner.gif" alt="MasterHead" width="1000" height="450"/>
 
 One moonlit night, I was bitten by a werewolf byte, triggering an irresistible urge to code during full moons. In the pale moonlight, I'd delve into my coding den, fingers dancing on the keyboard. The werewolf byte unlocked a hidden programming prowess, leading to mesmerizing code creations. GitHub repositories became a testament to these nocturnal escapades, marking a digital transformation. Colleagues marvelled at increased productivity and code quality. The moonlit coding frenzy became a fascinating chapter in my tale of digital enchantment, embracing the werewolf byte's influence on my coding journey.
 
